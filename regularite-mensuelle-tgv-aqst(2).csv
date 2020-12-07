@@ -1,211 +1,67 @@
-Année;Mois;Service;Gare de départ;Gare d'arrivée;Durée moyenne du trajet (min);Nombre de circulations prévues;Nombre de trains annulés;Commentaire (facultatif) annulations;Nombre de trains en retard au départ;Retard moyen des trains en retard au départ (min);Retard moyen de tous les trains au départ (min);Commentaire (facultatif) retards au départ;Nombre de trains en retard à l'arrivée;Retard moyen des trains en retard à l'arrivée (min);Retard moyen de tous les trains à l'arrivée (min);Commentaire (facultatif) retards à l'arrivée;% trains en retard pour causes externes (météo, obstacles, colis suspects, malveillance, mouvements sociaux, etc.);% trains en retard à cause infrastructure ferroviaire (maintenance, travaux);% trains en retard à cause gestion trafic (circulation sur ligne ferroviaire, interactions réseaux);% trains en retard à cause matériel roulant;% trains en retard à cause gestion en gare et réutilisation de matériel;% trains en retard à cause prise en compte voyageurs (affluence, gestions PSH, correspondances);Nombre trains en retard > 15min;Retard moyen trains en retard > 15min;Nombre trains en retard > 30min;Nombre trains en retard > 60min;Période;Retard pour causes externes;Retard à cause infrastructure ferroviaire;Retard à cause gestion trafic;Retard à cause matériel roulant;Retard à cause gestion en gare et réutilisation de matériel;Retard à cause prise en compte voyageurs
-2017;8.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.757201646;737.0;8.0;;78.0;14.6638888889;1.6934156378599998;;100.0;27.7058333333;4.49403292181;;0.14606741572999998;0.179775280899;0.191011235955;0.348314606742;0.0561797752809;0.0786516853933;70.0;34.4147619048;25.0;8.0;2017-08;14.606741573;17.977528089899998;19.1011235955;34.8314606742;5.61797752809;7.86516853933
-2015;5.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;211.077044025;637.0;1.0;;10.0;18.1;0.413522012579;;34.0;43.6764705882;2.45125786164;Cette ligne a été touchée par : un bruit en toiture entrainant un arrêt à St Léger d'un TGV le 05/05 (retarde 4 TGV de 121 minutes), heurt d'un animal sur la LGV le 12/05 (30 TGV soit 1799 minutes), une défaillance matérielle vers Massy le 18/05 (9 TGV soit 239 minutes), la fuite d'huile sur un transformateur d'un TGV vers Port de Piles le 27/05 ( 10 TGV soit 934 minutes), une disjonction sur la LGV le 25/05 (6 TGV soit 87 minutes) et un incident caténaire à Montmoreau le 29/05 (3 TGV , 119 minutes).;0.354838709677;0.290322580645;0.0;0.258064516129;0.0;0.0967741935484;34.0;43.6764706;17.0;4.0;2015-05;35.4838709677;29.0322580645;0.0;25.8064516129;0.0;9.67741935484
-2015;1.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;208.685667752;615.0;1.0;;19.0;17.6842105263;0.693811074919;;58.0;37.6551724138;4.70521172638;;0.27083333333299997;0.33333333333299997;0.145833333333;0.104166666667;0.104166666667;0.0416666666667;58.0;37.6551724138;23.0;10.0;2015-01;27.083333333300004;33.333333333300004;14.5833333333;10.4166666667;10.4166666667;4.16666666667
-2015;2.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;210.177083333;577.0;1.0;;22.0;19.7727272727;0.949652777778;;44.0;30.7727272727;4.30729166667;;0.289473684211;0.473684210526;0.105263157895;0.0789473684211;0.052631578947400004;0.0;44.0;30.7727273;11.0;3.0;2015-02;28.947368421100002;47.3684210526;10.5263157895;7.8947368421099995;5.26315789474;0.0
-2016;6.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.196881092;513.0;94.0;;51.0;18.9215686275;2.14035087719;;111.0;30.5765765766;10.2495126706;"Le conflit social national du 1er au 16 juin
-Le 6 : Une chaise mise dans la voie à Massy (25 TGV ; 701mn)
-Le 9 : Une avarie caténaire sur la ligne grande vitesse à St Leger (64 TGV ; 2429mn)
-Le 20 : Une absence de tension sur la ligne grande vitesse (38 TGV ; 552mn)
-Le 23 : Un dérangement d’aiguillage en gare de Paris Montparnasse (54 TGV ; 1907mn)
-Le 10 : un dérangement d’installation suite à malveillance au nord de Poitiers (13 TGV ; 267mn)
-Le 17 : Une rupture caténaire vers Coutras (15 TGV ; 434mn)
-Le 22 : Une limitation de vitesse liée aux fortes chaleurs à Poitiers (15 TGV ; 212mn)
-Tout le mois : une réduction de vitesse inopinée et non prise en compte dans les marches des trains à Ruffec (266 TGV ; 1716mn)";0.207207207207;0.540540540541;0.09009009009010001;0.027027027026999998;0.0630630630631;0.07207207207210001;111.0;30.5765766;35.0;9.0;2016-06;20.7207207207;54.0540540541;9.009009009009999;2.7027027027;6.30630630631;7.20720720721
-2016;12.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;206.15918958;697.0;6.0;;56.0;26.499702381;2.12655571635;;198.0;31.1888047138;12.0503135552;"Ce mois-ci, cette liaison a été touchée par:
-tout le mois: Remplacement d'appareils de voie au niveau de St Leger sur la ligne grande vitesse.
-Le 1er Décembre : présence de personnes dans les voies vers Massy (14 TGV ; 504’)
-Le 3 : Incident caténaire lié au givre à Bordeaux (10 TGV ; 709’)
-Le 12 : Détresse du TGV 8984 sur la ligne grande vitesse à Rouvray (30 TGV ; 1114’)
-Le 22 : Dérangement d’installation à Monts (19 TGV, 654’)
-Le 23 : Heurt d’un chevreuil vers Coutras (10 TGV ; 409’)
-Le 27 : Heurt d’un sanglier sur la ligne grande vitesse à St Arnoult (52 TGV ; 3872’)
-Le 27 : Découverte d’un Corps près de Châtellerault (37 TGV ; 3183’)";0.184210526316;0.572368421053;0.15131578947399998;0.059210526315800004;0.0328947368421;0.0;124.0;42.713172043;40.0;22.0;2016-12;18.4210526316;57.2368421053;15.131578947400001;5.921052631579999;3.28947368421;0.0
-2019;7.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.87001287;777.0;0.0;;471.0;4.69571832979;2.63667953668;;99.0;39.4794612795;4.9561990562;;0.183673469388;0.275510204082;0.214285714286;0.30612244898;0.0204081632653;0.0;75.0;48.1386666667;37.0;15.0;2019-07;18.3673469388;27.5510204082;21.428571428599998;30.612244898;2.04081632653;0.0
-2018;12.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.527080581;764.0;7.0;;97.0;12.9807560137;1.34423161603;;72.0;28.7516203704;2.28276089828;;0.236111111111;0.222222222222;0.263888888889;0.25;0.0;0.0277777777778;55.0;2.28276089828;20.0;5.0;2018-12;23.6111111111;22.2222222222;26.3888888889;25.0;0.0;2.77777777778
-2015;3.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.714728682;645.0;0.0;;8.0;21.375;0.337984496124;;27.0;32.7407407407;2.04031007752;;0.36;0.24;0.12;0.08;0.12;0.08;27.0;32.7407407;9.0;2.0;2015-03;36.0;24.0;12.0;8.0;12.0;8.0
-2015;11.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.557723577;617.0;2.0;;23.0;12.1739130435;0.569105691057;;56.0;33.2142857143;5.08943089431;;0.327272727273;0.29090909090899997;0.272727272727;0.0909090909091;0.0;0.0181818181818;56.0;33.2142857;24.0;2.0;2015-11;32.7272727273;29.090909090900002;27.2727272727;9.09090909091;0.0;1.8181818181799998
-2017;12.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;144.677675033;782.0;25.0;;118.0;16.8707627119;2.8273227653;;143.0;26.613986014;5.74225011008;;0.169811320755;0.179245283019;0.169811320755;0.42452830188699997;0.037735849056600004;0.018867924528300002;95.0;5.70457130359;47.0;10.0;2017-12;16.9811320755;17.9245283019;16.9811320755;42.452830188700005;3.77358490566;1.88679245283
-2016;5.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;210.196819085;503.0;1.0;;29.0;27.4482758621;1.7594433399599998;;71.0;48.7605633803;10.7773359841;"Cette liaison a été ralentie par d'importantes zones de travaux entre Poitiers & Angoulême .
-Par ailleurs, elle a été touchée par:
-Le 03 : une fuite de matières dangereuses sur un train fret d'une autre entreprise ferroviaire à Poitiers  (38 TGV pour 2941min perdues);
-Le 20 : la panne d'un TGV sur la Ligne à Grande Vitesse au Nord de Tours (25 TGV pour 625min perdues);
-Le 23:  la panne d'un train de marchandises à Port de Piles (32 TGV pour 858min perdues);
-Le 24 : un accident de personne près de Poitiers (24 TGV pour 1845min perdues);
-Le 27 : un dérangement informatique près de Tours (47 TGV pour 4787min perdues) et la présence d'une personne dans les voies à Massy en région parisienne (27 TGV pour 455min perdues);
-Le 29 : un dérangement des installations én région parisienne (35 TGV pour 1508min perdues).";0.14084507042299999;0.535211267606;0.12676056338;0.0704225352113;0.0704225352113;0.056338028169;71.0;48.7605634;30.0;14.0;2016-05;14.084507042300002;53.521126760600005;12.676056338;7.04225352113;7.04225352113;5.6338028169
-2015;7.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;213.847328244;658.0;3.0;;77.0;42.025974026;5.31145038168;;88.0;80.4772727273;12.0748091603;"Cette ligne a été impactée par plusieurs incendies aux abords des voies, notamment dans la région de VENDÔME : le 10/07 (53 TGV retardés de 12' à 3h50), le 11/07 (20 TGV retardés de 11' à 2h47), le 17/07 (46 TGV retardés de 16' à 4h56), et un autre sur LGV le 21/07 (20 TGV retardés de 15' à 2h20). Le heurt d'un poteau caténaire par une voiture à CHALAIS a perturbé la journée du 17/07 (21 TGV retardés de 11' à 4h52). La présence de personnes dans les voies à l'entrée de PARIS a également entraîné de nombreux retards : le 14/07 (11 TGV retardés de 11' à 47'), le 18/07 (31 TGV retardés de 15' à 1h49). Les circulations ont été retardées par des dérangements d'installations : le 01/07 à l'entrée de PARIS en raison des fortes chaleurs (26 TGV retardés de 9' à 1h42), le 03/07 sur LGV (12 TGV retardés de 6' à 44'), le 11/07 sur LGV (38 TGV retardés de 6' à 66'), le 19/07 à l'entrée de PARIS (10 TGV retardés de 11' à 25') ; et par la panne de trains : le 18/07 sur LGV (22 TGV de 16' à 2h43), le 28/07 à l'entrée de PARIS (10 TGV de 14' à 2h00). Enfin, un incident caténaire au sud de TOURS à fortement perturbé la journée du 30/07 (53 TGV retardés de 6' à 6h30).";0.416666666667;0.297619047619;0.0119047619048;0.119047619048;0.13095238095199999;0.0238095238095;88.0;80.4772727;52.0;33.0;2015-07;41.666666666699996;29.7619047619;1.19047619048;11.9047619048;13.095238095200001;2.38095238095
-2019;6.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.697522816;774.0;7.0;;501.0;7.85342648037;4.95458496306;;94.0;45.7395390071;5.52618426771;"Ce mois ci, la destination a été marquée par les incidents suivants : 
-- le 7 : sur l'ensemble des régions les conséquences du passage de la tempête Miguel (arbres sur les voies, limitations de vitesse...) (110 TGV impactés pour 10230 minutes perdues), 
-- le 9 : un bagage oublié dans un TGV nécessite un arrêt exceptionnel à Massy TGV (11 TGV impactés pour 316 minutes perdues),
-- le 10 : un bagage oublié en gare de Bordeaux (23 TGV impactés pour 967 minutes perdues),
-- le 11 : un incident éléctrique vers Vendôme sur la Ligne à Grande Vitesse Atlantique perturbe l'ensemble des circulations TGV (127 TGV impactés pour 11356 minutes perdues) et un heurt de  chevreuil sur la Ligne à Grande Vitesse Atlantique (8 TGV impactés pour 431 minutes perdues),
-- le 12 : un dérangement d'installation sur la Ligne à Grande Vitesse Atlantique (39 TGV impactés pour 1164 minutes perdues), 
-- le 13 : une panne d'un OUIGO à la sortie de Paris-Montparnasse  (20 TGV impactés pour 309 minutes perdues), 
-- le 14 : un heurt de cerf sur la Ligne à Grande Vitesse Atlantique (17 TGV impactés pour 630 minutes perdues), 
-- le 16 : présence d'une personne aux abords des voies sur la Ligne à Grande Vitesse Atlantique (34 TGV impactés pour 1337 minutes perdues),
-- le 21 : une panne d'un TGV sur la Ligne à Grande Vitesse Atlantique (17 TGV impactés pour 177 minutes perdues), 
-- le 25 : une incendie aux abords des voies vers Monts (14 TGV impactés pour  655 minutes perdues), 
-- le 26 : un dérangement d'installation vers St-Pierre-des-Corps dû aux fortes chaleurs (27 TGV impactés pour 450 minutes perdues),
-- le 27 : un incident électrique au nord de St-Pierre-des-Corps (16 TGV pour 459 minutes perdues),
-- le 28 : le heurt d'un chevreuil sur la Ligne à Grande Vitesse Atlantique (51 TGV impactés pour  2160 minutes perdues).";0.268817204301;0.290322580645;0.129032258065;0.215053763441;0.0645161290323;0.0322580645161;77.0;55.7598684211;52.0;24.0;2019-06;26.881720430099996;29.0322580645;12.903225806499998;21.5053763441;6.45161290323;3.22580645161
-2017;10.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.531941032;818.0;4.0;;92.0;14.9851449275;0.187551187551;;147.0;25.235260771;5.12620802621;;0.166666666667;0.245614035088;0.210526315789;0.298245614035;0.052631578947400004;0.026315789473700002;92.0;5.12620802621;33.0;10.0;2017-10;16.6666666667;24.5614035088;21.052631578899998;29.8245614035;5.26315789474;2.63157894737
-2016;8.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.029096478;654.0;1.0;;38.0;19.8947368421;1.32618683002;;94.0;48.9468085106;8.71975497703;"Ce mois-ci l'OD a été touchée par plusieurs incidents:
-Le 8 : accident de personne au nord de Poitiers (31 TGV ; 2035mn)
-Le 8 : accident de personne à Libourne (16 TGV ; 746mn)
-Le 9 : heurt d’un animal sur la ligne grande vitesse (Massy) (16 TGV ; 430mn)
-Le 13 : Dérangements d’installation à Angoulême (13 TGV ; 850mn)
-Le 16 : Défaillance matérielle sur la ligne grande vitesse (St Arnoult) (11 TGV ; 405mn)
-Le 23 : suspicion de fuite de MD à Angoulême (24 TGV ; 1344mn)
-Le 27 : dérangement d’installation sur la ligne grande vitesse (St Cyr) (24 TGV ; 907mn)
-Le 30 : suspicion de fuite de MD à Luxé (28 TGV ; 1568mn)
-Le 31 : dérangement d’installation sur la ligne grande vitesse (St Léger) (23 TGV ; 410mn)";0.244680851064;0.265957446809;0.255319148936;0.106382978723;0.0744680851064;0.053191489361700005;94.0;48.9468085;40.0;27.0;2016-08;24.4680851064;26.5957446809;25.5319148936;10.638297872299999;7.44680851064;5.319148936169999
-2017;4.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.272;632.0;7.0;;52.0;21.3461538462;1.8416000000000001;;115.0;29.3913043478;8.3008;"Ce mois-ci, le parcours a été touché par:
-Le 4 : Arrachement caténaire à la sortie de la gare de Paris Montparnasse (178 TGV ; 10 821’)
-Le 5 : choc anormal sur la ligne grande vitesse au niveau de Rouvray (27 TGV ; 5897’)
-Le 16 : Accident de personne à Châtellerault (24 TGV ; 681’)
-Le 20: Dépose de plaques métalliques  sur la voie vers Poitiers (15 TGV ; 452’)
-Le 20 : Incident électrique au niveau de la gare de Massy TGV (38 TGV ; 594’)";0.126436781609;0.632183908046;0.10344827586199999;0.10344827586199999;0.0229885057471;0.0114942528736;71.0;39.9788732;30.0;13.0;2017-04;12.643678160899999;63.2183908046;10.344827586200001;10.344827586200001;2.29885057471;1.14942528736
-2017;9.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.741645244;784.0;6.0;;77.0;15.1510822511;1.55205655527;;146.0;30.5910958904;6.5703299057399995;;0.16393442622999999;0.352459016393;0.155737704918;0.229508196721;0.0491803278689;0.0491803278689;97.0;39.8202749141;55.0;13.0;2017-09;16.393442623000002;35.2459016393;15.573770491799998;22.9508196721;4.9180327868900005;4.9180327868900005
-2018;5.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;140.393258427;800.0;266.0;;39.0;14.588034188;0.956585518102;;55.0;26.0763636364;2.38024344569;;0.181818181818;0.29090909090899997;0.0909090909091;0.309090909091;0.109090909091;0.0181818181818;36.0;2.38024344569;9.0;1.0;2018-05;18.1818181818;29.090909090900002;9.09090909091;30.9090909091;10.9090909091;1.8181818181799998
-2018;2.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;144.061349693;698.0;46.0;;189.0;15.5081128748;4.28108384458;;157.0;41.8543524416;10.113599182;"Ce mois-ci, l'OD a été touchée par les incidents suivants: 
-Le 3 : Avarie à la caténaire à l’entrée de la gare de Paris Montparnasse (46 TGV ; 476mn)
-Le 6 : épisode neigeux sur toute la France (187 TGV ; 18980mn ; 23 suppressions)
-Le 7 : épisode neigeux sur toute la France (134 TGV ; 6294mn ; 77 suppressions)
-Le 8 : épisode neigeux sur toute la France (166 TGV ; 2814mn ; 30 suppressions)
-Le 9 : épisode neigeux sur toute la France (151 TGV ; 2830mn ; 15 suppressions)
-Le 15 : Incident caténaire à l’entrée de la gare de Paris Montparnasse (78 TGV ; 2349mn ; 15 suppressions)
-Le 15 : Dérangement d’installation sur la ligne grande vitesse (22 TGV ; 672mn)
-Le 21 : Présences de Chèvres aux abords de la ligne grande vitesse à Marcoussis (15 TGV ; 292mn)
-Le 21 : Avarie Matérielle sur la ligne grande vitesse au niveau de St Leger (62 TGV ; 2150mn)
-Le 28 : Bâche dans la caténaire à l’entrée de la gare de Paris Montparnasse (28 TGV ; 605mn)";0.49659863945599997;0.15646258503399998;0.142857142857;0.17687074829899999;0.0272108843537;0.0;123.0;10.113599182;72.0;27.0;2018-02;49.6598639456;15.646258503400002;14.2857142857;17.687074829900002;2.72108843537;0.0
-2015;4.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.685126582;632.0;0.0;;15.0;13.0666666667;0.458860759494;;42.0;35.7619047619;3.12816455696;;0.384615384615;0.33333333333299997;0.128205128205;0.102564102564;0.0512820512821;0.0;42.0;35.761904799999996;16.0;6.0;2015-04;38.4615384615;33.333333333300004;12.8205128205;10.2564102564;5.128205128209999;0.0
-2016;7.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;210.766766021;672.0;1.0;;63.0;14.3174603175;1.65126676602;;60.0;31.8833333333;4.52906110283;;0.19298245613999998;0.315789473684;0.0877192982456;0.157894736842;0.175438596491;0.07017543859650001;59.0;32.0847458;24.0;4.0;2016-07;19.298245614000002;31.5789473684;8.77192982456;15.7894736842;17.5438596491;7.017543859649999
-2018;8.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.962406015;681.0;16.0;;122.0;7.61543715847;1.11979949875;;62.0;27.1411290323;2.45521303258;;0.15;0.25;0.183333333333;0.33333333333299997;0.08333333333330001;0.0;47.0;2.45521303258;14.0;3.0;2018-08;15.0;25.0;18.3333333333;33.333333333300004;8.33333333333;0.0
-2016;3.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.589285714;616.0;19.0;;34.0;25.7941176471;1.5779220779199998;;56.0;48.9285714286;6.8262987013;"Ce mois-ci , la ligne a été touchée par : 
-
-28-03  : Demande de secours d’un TER 863046 à Dissay (28 TGV ; 1061 minutes)
-17-03  : Alerte radio au Poste 1 de St-Pierre-des- Corps (26 TGV ; 928 minutes)
-22-03  : Reconnaissance de la ligne à grande vitesse par un TGV puisque suppression du train balai  (19 TGV ; 284 minutes)
-12-03  : Alerte à la bombe à Libourne (13 TGV ; 881 minutes)
-06-03  : Collision entre un TER et un Fret à Libourne (13 TGV ; 578 minutes)
-22-03  : Dérangement d’installation à St-Pierre-des-Corps (11 TGV ; 412 minutes)
-10-03 : Incident caténaire à Tours (23 TGV ; 321 minutes)
-21-03  : Dérangement d’installation à Poitiers (14 TGV ; 300 minutes)
-17-03  : Odeur de gaz en gare de Bordeaux (6 TGV ; 979 minutes)
-22-03  : Alerte à la bombe à Bordeaux (8 TGV ; 355 minutes)
-14-03  : Collision d’un animal à Maillé (11 TGV ; 132 minutes)
-17-03  : Détresse matérielle d’un TER  à St-Pierre-des-Corps (11 TGV ; 235 minutes)
-01-03  : Défaillance matérielle à Montrouge (99 TGV ; 4563 minutes)
-22-03  : Choc anormal à Montrouge (42 TGV ; 1007 minutes)
-17-03  : Raté de fermeture PN à Massy Palaiseau (29 TGV ; 280 minutes)
-11-03  : Dérangement d’installation à St Léger (11 TGV ; 209 minutes)
-29-03  : Choc avec un animal entre Massy et Marcoussis (8 TGV ; 140 minutes)
-11-03  : Dérangement installation à Marcoussis (23 TGV ; 129 minutes)
-18-03  : Défaillance matérielle à Montrouge (12 TGV ; 107 minutes)
-18-03  : Alerte à la bombe à Paris Montparnasse (10 TGV ; 335 minutes) 
-04-03 : Soin matériel à Montrouge (8 TGV ; 191 minutes)";0.355555555556;0.4;0.0666666666667;0.0666666666667;0.111111111111;0.0;56.0;48.9285714;33.0;14.0;2016-03;35.5555555556;40.0;6.66666666667;6.66666666667;11.1111111111;0.0
-2018;11.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.427977839;734.0;12.0;;60.0;9.24555555556;0.363711911357;;57.0;27.1900584795;2.01237303786;;0.196428571429;0.357142857143;0.214285714286;0.142857142857;0.0714285714286;0.0178571428571;44.0;2.01237303786;15.0;5.0;2018-11;19.6428571429;35.7142857143;21.428571428599998;14.2857142857;7.14285714286;1.7857142857100001
-2017;2.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;204.534090909;629.0;13.0;;39.0;32.6692307692;1.99759199134;;83.0;44.7624497992;8.20738636364;"Ce mois-ci, l'OD a été touché par les incidents suivants:
-Le 04 : réduction de vitesse en Aquitaine Poitou-Charentes suite à Tempête (53 TGV ; 3644’)
-Le 10 : difficultés dans la préparation des rames au Technicentre (35 TGV ; 559’)
-Du 10 au 16 : risque de chute du remblai à Parcoul Médillac (151 TGV ; 1249’)
-Le 13 : accident de personne à Poitiers (31 TGV ; 1790’)
-Le 13 : risque d’effondrement de la marquise de Libourne (22 TGV ; 1151’)
-Le 18 : incident caténaire à Massy TGV (76 TGV ; 4447’)
-Le 28 : dérangement d’aiguillage à Paris Montparnasse (25 TGV ; 445’)";0.342857142857;0.342857142857;0.171428571429;0.12857142857099998;0.0;0.0142857142857;52.0;64.2923076923;30.0;23.0;2017-02;34.285714285699996;34.285714285699996;17.1428571429;12.857142857100001;0.0;1.42857142857
-2019;5.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.94836272;794.0;0.0;;467.0;10.548786581;5.97485306465;;32.0;26.0479166667;0.162132661629;;0.310344827586;0.448275862069;0.10344827586199999;0.10344827586199999;0.0;0.0344827586207;21.0;33.0031746032;8.0;2.0;2019-05;31.034482758600003;44.8275862069;10.344827586200001;10.344827586200001;0.0;3.44827586207
-2018;3.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;144.019099591;760.0;27.0;;123.0;7.62588075881;1.02003183265;;80.0;23.0958333333;2.41550704866;;0.355263157895;0.315789473684;0.11842105263199999;0.197368421053;0.0;0.013157894736800001;49.0;2.41550704866;17.0;2.0;2018-03;35.5263157895;31.5789473684;11.8421052632;19.7368421053;0.0;1.31578947368
-2016;11.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;211.29468599;622.0;1.0;;54.0;22.7777777778;2.24154589372;;105.0;39.7619047619;11.0289855072;;0.21359223301;0.427184466019;0.155339805825;0.0873786407767;0.116504854369;0.0;105.0;39.761904799999996;52.0;19.0;2016-11;21.359223301;42.7184466019;15.533980582500002;8.73786407767;11.6504854369;0.0
-2018;4.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;142.122772277;756.0;251.0;;91.0;9.06556776557;1.37174917492;;57.0;24.514619883;2.37762376238;;0.436363636364;0.12727272727299999;0.07272727272730001;0.29090909090899997;0.0545454545455;0.0181818181818;37.0;2.37762376238;15.0;3.0;2018-04;43.6363636364;12.7272727273;7.272727272729999;29.090909090900002;5.45454545455;1.8181818181799998
-2018;7.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.400332226;697.0;95.0;;137.0;12.5049878345;2.63214285714;;78.0;27.5115384615;4.09119601329;;0.142857142857;0.194805194805;0.181818181818;0.376623376623;0.0649350649351;0.038961038961;58.0;4.09119601329;22.0;5.0;2018-07;14.2857142857;19.4805194805;18.1818181818;37.6623376623;6.49350649351;3.896103896099999
-2015;9.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.599681021;628.0;1.0;;20.0;14.95;0.650717703349;;53.0;38.5283018868;4.77192982456;;0.34;0.36;0.02;0.18;0.06;0.04;53.0;38.5283019;24.0;5.0;2015-09;34.0;36.0;2.0;18.0;6.0;4.0
-2017;7.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.941926346;729.0;23.0;;123.0;23.7317073171;4.39093484419;;179.0;31.7709497207;9.03966005666;"Ce mois-ci, l'OD a été touchée par: _x000D_
-Le 7 : Défaillance matérielle à la sortie de la gare de Paris Montparnasse (87 TGV ; 2202’)_x000D_
-Le 11 : Divergence entre les équipements au sol et les TGV en circulation sur la grande ceinture parisienne (36 TGV ; 1034’)_x000D_
-Le 13 : Dérangement d’aiguille sur le tronc commun des lignes grandes vitesse à St Arnoult (19 TGV ; 289’)_x000D_
-Le 13 : Défaut d’alimentation électrique à la sortie de la gare de Paris Montparnasse (30 TGV ; 422’)_x000D_
-Le 17 : Rupture caténaire en gare de Paris Montparnasse (75 TGV ; 4801’)_x000D_
-Le 19 : Dérangement d’installation télécom sur la nouvelle ligne grande vitesse vers Bordeaux (22 TGV ; 543’)_x000D_
-Le 25 : Dérangement d’installation sur la nouvelle ligne grande vitesse vers Bordeaux (21 TGV ; 482’)_x000D_
-Le 19 : Personnes dans les voies à la sortie de la gare de Paris Montparnasse (24 TGV ; 363’)_x000D_
-Du 29 au 31 : Dérangement du poste de Vanves (450 TGV ; 27110’)";0.11949685534599999;0.408805031447;0.150943396226;0.207547169811;0.062893081761;0.0503144654088;119.0;41.5928571;54.0;16.0;2017-07;11.9496855346;40.8805031447;15.0943396226;20.7547169811;6.2893081761000005;5.03144654088
-2016;10.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;211.296411856;641.0;0.0;;45.0;25.7111111111;1.9890795631799998;;110.0;35.4636363636;10.2527301092;;0.0816326530612;0.581632653061;0.173469387755;0.0510204081633;0.0918367346939;0.0204081632653;110.0;35.4636364;37.0;18.0;2016-10;8.16326530612;58.1632653061;17.3469387755;5.10204081633;9.18367346939;2.04081632653
-2017;5.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;208.8848;629.0;4.0;;59.0;15.3389830508;1.4272;;135.0;28.1925925926;8.7392;"L'OD a été touchée par:
-Du 1er au  31 : Travaux de Mouthiers (889 TGV ; 5276’)
-Le 16 : LTV Fortes Chaleurs sur Aquitaine Poitou-Charentes (39 TGV ; 565’)
-Du 21 au  31 : Déraillement d’un train de marchandises à Luxé (249 TGV; 2892’)
-Le 22 : présence de SDF dans une rame vide au départ de Paris (42 TGV ; 937’)
-Le 22 : Dérangement d'installation sur la ligne grande vitesse  vers St Léger (23 TGV ; 431’)
-Du 25 au 31: Travaux à Paris Montparnasse (290 TGV ; 2785’)
-Du 26 au 28 : LTV Fortes Chaleurs sur Paris et  Poitou-Charentes (104TGV;1530’)
-Le 28 : Arbre engageant le gabarit sur la ligne grande vitesse vers Marcoussis (40 TGV ; 600’)";0.24;0.33;0.27;0.13;0.03;0.0;96.0;34.825;30.0;11.0;2017-05;24.0;33.0;27.0;13.0;3.0;0.0
-2015;10.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.472392638;653.0;1.0;;13.0;13.0769230769;0.44018404908;;37.0;31.1891891892;3.22392638037;;0.25;0.416666666667;0.138888888889;0.08333333333330001;0.111111111111;0.0;37.0;31.1891892;13.0;2.0;2015-10;25.0;41.666666666699996;13.8888888889;8.33333333333;11.1111111111;0.0
-2016;9.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.155802862;629.0;0.0;;38.0;32.0263157895;2.10333863275;;105.0;38.7714285714;9.63434022258;;0.317307692308;0.5;0.028846153846200002;0.105769230769;0.0384615384615;0.00961538461538;105.0;38.7714286;41.0;12.0;2016-09;31.7307692308;50.0;2.88461538462;10.5769230769;3.84615384615;0.961538461537999
-2019;4.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.183006536;769.0;4.0;;341.0;7.6850439882699995;3.31699346405;;57.0;29.8257309942;1.39535947712;;0.326086956522;0.195652173913;0.239130434783;0.130434782609;0.0869565217391;0.0217391304348;38.0;1.39535947712;17.0;6.0;2019-04;32.6086956522;19.5652173913;23.9130434783;13.043478260899999;8.69565217391;2.17391304348
-2019;3.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.619824341;816.0;19.0;;95.0;19.9231578947;2.00648264325;;64.0;50.6140625;3.42063989962;"Ce mois-ci, cette destination a été touchée par : 
-- le 4 : les vents violents imposent des limitations de vitesse (27 TGV impactés pour 221 minutes perdues) et la panne d'un TGV sur la ligne à grande vitesse Atlantique (23 TGV impactés pour 724 minutes perdues), 
-- le 12 : le heurt d'une barrière de chantier entre Marcoussis et Massy TGV sur la ligne à grande vitesse Atlantique (80 TGV impactés pour 3660 minutes perdues), 
-- le 19 : un dérangement d'installation  sur la ligne à grande vitesse Atlantique  (27 TGV impactés pour 634 minutes perdues) et la défaillance matériel d'un TGV entre Massy et Paris (24 TGV impactés pour 417 minutes perdues), 
-- le 20 : l'incendie d'une maison aux abords des voies près de Toulouse qui impactera les circulations jusqu'au 26/03 (19 TGV impactés pour 1271 minutes perdues),
-- le 25 : l'envahissement des voies à Vendôme par les salariés d'Arjowiggins (56 TGV impactés pour 4488 minutes perdues) et la défaillance matériel d'un TGV vers Massy (40 TGV impactés pour 1194 minutes perdues),
-- le 27 : la défaillance matériel d'un TGV vers Vendôme (14 TGV impactés pour 320 minutes perdues).";0.328125;0.203125;0.09375000000000001;0.34375000000000006;0.03125;0.0;56.0;3.42063989962;32.0;12.0;2019-03;32.8125;20.3125;9.375;34.375;3.125;0.0
-2018;9.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.244039271;714.0;1.0;;96.0;7.14930555556;0.699158485273;;52.0;23.0509615385;1.6306685367;;0.0769230769231;0.403846153846;0.269230769231;0.25;0.0;0.0;37.0;1.6306685367;10.0;1.0;2018-09;7.692307692310001;40.384615384599996;26.9230769231;25.0;0.0;0.0
-2018;10.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.694915254;708.0;0.0;;81.0;7.50514403292;0.563512241055;;49.0;21.2445578231;1.24799905838;;0.204081632653;0.30612244897999996;0.122448979592;0.30612244897999996;0.0204081632653;0.0408163265306;36.0;1.24799905838;6.0;0.0;2018-10;20.4081632653;30.612244898;12.244897959200001;30.612244898;2.04081632653;4.08163265306
-2019;1.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.411392405;819.0;29.0;;106.0;16.1463836478;1.83983122363;;65.0;42.1143589744;2.95061181435;"Ce mois-ci, l'OD a été touchée par les incidents suivants :
- - le 9 : un choc anormal immobilise un train OUIGO sur la ligne à grande vitesse Atlantique (53 TGV impactés pour 3007 minutes perdues) et le heurt d'un sanglier sur la ligne à grande vitesse Atlantique (25 TGV pour 1 42 minutes perdues), 
-- le 17 : un bagage abandonné dans un TGV en gare de Paris-Montparnasse (9 TGV impactés pour 287' perdues) et l'incendie d'une armoire électrique entre Montauban et Toulouse (17 TGV impactés pour 269' perdues), 
-- les 22 et 23  : les épisodes neigeux sur toute la France (83 TGV pour 1068'perdues),
-- le 24 : le heurt d'un chevreuil sur la ligne à grande vitesse Atlantique (68 TGV impactés pour 3628' perdues), 
-- le 29 : la tempête Gabriel (18 TGV impactés pour 482 minutes perdues), 
-- le 30 : les épisodes neigeux en Ile-de-France (33 TGV impactés pour 772' minutes perdues),
-- le 31 : une rupture caténaire à l'entrée de Paris-Montparnasse entraine une interruption totale des circulations (128 TGV pour 12028' perdues).";0.476923076923;0.153846153846;0.184615384615;0.169230769231;0.0;0.0153846153846;53.0;2.95061181435;31.0;17.0;2019-01;47.6923076923;15.3846153846;18.461538461499998;16.9230769231;0.0;1.53846153846
-2016;2.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.620462046;606.0;2.0;;15.0;14.5333333333;0.506600660066;;40.0;30.375;4.83498349835;;0.342105263158;0.368421052632;0.052631578947400004;0.0789473684211;0.105263157895;0.052631578947400004;40.0;30.375;14.0;3.0;2016-02;34.2105263158;36.8421052632;5.26315789474;7.8947368421099995;10.5263157895;5.26315789474
-2017;3.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;204.296137339;701.0;2.0;;30.0;36.2;1.45922746781;;98.0;41.5816326531;7.42775393419;"Ce mois-ci, l 'OD a été touchée par:
-Le 6 : Tempête Zeus sur tout l’Ouest de la France (150 TGV ; 8791’)
-Le 6 : Dérangement de signalisation à la sortie de Paris (13 TGV ; 199’)
-Le 7 : Incident caténaire à Rouvray sur la ligne grande vitesse (28 TGV ; 1369’)
-Le 8 : Arrachement caténaire au niveau de Massy TGV (57 TGV ; 3343’)
-Le 14 : Heurt de matériel de chantier à la Grave d’Ambarès (17 TGV ; 525’)
-Le 26 : Colis suspect à Massy TGV (16 TGV ; 650’)
-Le 27 : Colis suspect à Cenon (10 TGV ; 400’)";0.328947368421;0.38157894736799997;0.0921052631579;0.11842105263199999;0.0657894736842;0.013157894736800001;69.0;54.2;34.0;17.0;2017-03;32.894736842099995;38.1578947368;9.21052631579;11.8421052632;6.5789473684200015;1.31578947368
-2015;6.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;215.078651685;625.0;2.0;;45.0;36.6666666667;2.8908507223099997;;78.0;53.1923076923;7.72712680578;"Cette OD a été touchée le 4 par un rail cassé couplé à un affaissement caténaire à la sortie de Paris (172 TGV; 7664mn), le 5 par diverses limitations de vitesses liées aux fortes chaleurs dont une à la sortie de Paris reduisant fortement le débit des trains (82TGV; 985mn), 2 incendies aux abords des voies entre Droué et Vendôme le 25 (48TGV; 1826mn) et le 30 (30TGV; 1773mn), le 3 par l'arrêt de sécurité d'un train dans les tunnels avant Paris (22TGV; 1035mn) lié à une presence dans les voies en sortie de gare Montparnasse (16TGV; 419mn),  le 22 par le heurt de 2 chevreuils sur la branche sud de la ligne grande vitesse (15TGV; 328mn)";0.308823529412;0.544117647059;0.014705882352900001;0.0588235294118;0.0735294117647;0.0;78.0;53.1923077;41.0;22.0;2015-06;30.882352941199997;54.4117647059;1.47058823529;5.882352941180001;7.35294117647;0.0
-2016;4.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;208.037931034;580.0;13.0;;21.0;24.1904761905;1.03448275862;;45.0;43.1333333333;6.04655172414;"Ce mois-ci, l'OD a été touchée par:
-Le 04 : Accident de personne à Rungis (28 TGV ; 1243mn)
-Le 10 : dérangement d’installation à Ruffec (22 TGV ; 262mn)
-Le 14 : fuite de matières dangereuses à Angoulême (17 TGV ; 735mn)
-Le 14 : Disjonctions multiples sur la ligne grande vitesse (61 TGV ; 2054mn)
-Le 20 : Avarie matérielle en sortie de gare Montparnasse (11 TGV ; 263mn)
-Le 22 : Panne d’un train de travaux à Luxé (47 TGV ; 1369mn)
-Le 26 : grève nationale
-Le 29 : Choc anormal au niveau de Bassens (19 TGV ; 430mn)";0.111111111111;0.266666666667;0.2;0.155555555556;0.2;0.0666666666667;45.0;43.1333333;19.0;7.0;2016-04;11.1111111111;26.6666666667;20.0;15.555555555600002;20.0;6.66666666667
-2016;1.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.832155477;566.0;1.0;;23.0;15.9565217391;0.782685512367;;45.0;42.4;5.6148409894;;0.644444444444;0.111111111111;0.0666666666667;0.111111111111;0.0666666666667;0.0;45.0;42.4;22.0;7.0;2016-01;64.44444444439999;11.1111111111;6.66666666667;11.1111111111;6.66666666667;0.0
-2015;12.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.510015408;650.0;1.0;;24.0;11.875;0.560862865948;;33.0;31.0606060606;3.2126348228;;0.515151515152;0.212121212121;0.12121212121199999;0.030303030302999998;0.12121212121199999;0.0;33.0;31.0606061;10.0;1.0;2015-12;51.515151515199996;21.212121212099998;12.121212121200001;3.0303030303;12.121212121200001;0.0
-2015;8.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;213.514503817;655.0;0.0;;47.0;26.6382978723;2.12061068702;;64.0;52.21875;5.96030534351;"Ce mois-ci, l'OD a été touché sur ligne garnde vitesse par un dérangement d'installations à Marcoussis le 4 (20 TGV ; 564mn), un colis susspect en gare de Paris Montparnasse le 20 (10 TGV ; 318mn), la défaillance d'une rame en sortie de gare à Paris Montparnasse le 26 (15 TGV ; 427mn), de multiples disjonctions provoquées par un oiseau en toiture de rame à Massy le 27 (14 TGV ; 325mn), un dérangement d'installation à Massy le 28 (38 TGV ; 674mn) et le 29 (11 TGV ; 331mn).
-Sur ligne classique l'OD a été touchée par la foudre sur la caténaire à Coutras le 3 (9 TGV ; 732mn), un affaissement caténaire à Ruffec (28 TGV ;  1726mn) et un dérangement des installations radio entre Mouthiers et St Aigulin (27 TGV ; 310mn) le 4 et un accident de personne à Poitiers le 8 (29 TGV ; 2219mn).";0.46875000000000006;0.25;0.046875;0.09375000000000001;0.109375;0.03125;64.0;52.21875;31.0;20.0;2015-08;46.875;25.0;4.6875;9.375;10.9375;3.125
-2019;2.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.289222374;741.0;8.0;;66.0;11.3123737374;0.676034561164;;54.0;23.6219135802;1.16800818554;;0.22641509433999998;0.188679245283;0.358490566038;0.188679245283;0.037735849056600004;0.0;36.0;1.16800818554;11.0;3.0;2019-02;22.641509434;18.8679245283;35.8490566038;18.8679245283;3.77358490566;0.0
-2018;1.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;143.40625;775.0;7.0;;148.0;9.37781531532;1.5825303819399998;;79.0;25.4791139241;2.54696180556;;0.216666666667;0.25;0.116666666667;0.4;0.0166666666667;0.0;45.0;2.54696180556;21.0;4.0;2018-01;21.6666666667;25.0;11.6666666667;40.0;1.6666666666699999;0.0
-2018;6.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;141.928902628;804.0;157.0;;56.0;16.3098214286;1.36555899021;;75.0;24.2031111111;2.9105615662;;0.263888888889;0.33333333333299997;0.08333333333330001;0.25;0.0555555555556;0.0138888888889;45.0;2.9105615662;18.0;3.0;2018-06;26.3888888889;33.333333333300004;8.33333333333;25.0;5.555555555560001;1.38888888889
-2017;6.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.434375;648.0;8.0;;102.0;23.6862745098;3.6140625;;161.0;36.2236024845;12.1234375;"Ce mois-ci, l'OD a été touchée par:
-Du 1er au  31 : Travaux de Mouthiers (1088 TGV ; 6789’)
-Entre le 6 et le 16 : Dérangement d’aiguillages en raison des chaleurs à Paris Montparnasse (79 TGV ; 1502’)
-Le 10 : accident de personne en gare de Poitiers (13 TGV ; 236’)
-Le 12 : Accident de personne sur la ligne grande vitesse à St Léger (103 TGV ; 5531’)
-Le 19 : Difficultés pour le centre de maintenance de fournir des rames compte tenu des retards (32 TGV ; 1006’)
-Le 20 : Dérangement des installations sur la ligne grande vitesse à St Léger (24 TGV ; 280’)
-Le 21 : Avarie caténaire en sortie de la gare de Paris Montparnasse (63 TGV ; 2001’)
-Le 26 : Dérangement de signalisation à Monts (49 TGV ; 335’)
-Le 27 : arrachement caténaire à Libourne (44 TGV ; 4345’)";0.16;0.0;0.0;0.8;0.04;0.0;118.0;44.8234463;59.0;22.0;2017-06;16.0;0.0;0.0;80.0;4.0;0.0
-2017;11.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.513994911;794.0;8.0;;62.0;15.8319892473;1.31060220526;;118.0;27.8607344633;4.77996183206;;0.155555555556;0.288888888889;0.266666666667;0.188888888889;0.0666666666667;0.0333333333333;74.0;4.73776796974;32.0;13.0;2017-11;15.555555555600002;28.8888888889;26.6666666667;18.8888888889;6.66666666667;3.333333333329999
-2017;1.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;204.617737003;667.0;13.0;;66.0;18.2858585859;1.78970438328;;124.0;25.697983871;7.77864424057;;0.231481481481;0.305555555556;0.222222222222;0.175925925926;0.0555555555556;0.00925925925926;71.0;35.776291079800004;35.0;6.0;2017-01;23.1481481481;30.5555555556;22.2222222222;17.592592592600003;5.555555555560001;0.925925925926
-2019;8.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.632513661;737.0;5.0;;420.0;5.67369047619;2.92087887067;;46.0;30.6507246377;1.47349726776;;0.304347826087;0.260869565217;0.108695652174;0.304347826087;0.0;0.0217391304348;35.0;36.4419047619;18.0;4.0;2019-08;30.4347826087;26.0869565217;10.8695652174;30.4347826087;0.0;2.1739130434800003
-2019;9.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.253117207;806.0;4.0;;562.0;5.48917556346;3.69289276808;;61.0;27.256284153;1.33453865337;;0.295081967213;0.262295081967;0.245901639344;0.147540983607;0.0327868852459;0.016393442623;39.0;35.7324786325;20.0;3.0;2019-09;29.5081967213;26.229508196700003;24.5901639344;14.754098360699999;3.2786885245899997;1.6393442623
-2019;10.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.722745626;784.0;41.0;;591.0;5.79543147208;4.48497083894;;85.0;28.5984313725;2.27063705698;;0.440476190476;0.22619047619;0.130952380952;0.130952380952;0.0714285714286;0.0;62.0;34.4252688172;30.0;4.0;2019-10;44.0476190476;22.619047619;13.095238095200001;13.095238095200001;7.14285714286;0.0
-2019;11.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.712270804;738.0;29.0;;548.0;6.52852798054;4.91927597555;;86.0;34.3798449612;4.21372825576;;0.235294117647;0.305882352941;0.164705882353;0.188235294118;0.0588235294118;0.0470588235294;68.0;40.2825980392;22.0;10.0;2019-11;23.5294117647;30.588235294100002;16.4705882353;18.8235294118;5.882352941180001;4.705882352940001
-2020;4.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;153.891891892;92.0;55.0;;35.0;7.18523809524;6.76576576577;;20.0;22.6766666667;15.25;;0.0555555555556;0.944444444444;0.0;0.0;0.0;0.0;15.0;25.1588235294;3.0;0.0;2020-04;5.555555555560001;94.4444444444;0.0;0.0;0.0;0.0
-2019;12.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.394648829;366.0;67.0;;232.0;7.81034482759;5.9102006689;;82.0;24.7705284553;7.56956521739;;0.2125;0.6125;0.025;0.1;0.025;0.025;54.0;31.2537037037;15.0;5.0;2019-12;21.25;61.25000000000001;2.5;10.0;2.5;2.5
-2020;3.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.943946188;501.0;55.0;;348.0;2.98936781609;2.20459641256;;77.0;24.0032467532;5.4014573991;;0.146666666667;0.386666666667;0.173333333333;0.146666666667;0.106666666667;0.04;51.0;30.3882352941;18.0;3.0;2020-03;14.666666666700001;38.6666666667;17.3333333333;14.666666666700001;10.666666666700001;4.0
-2020;1.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.51584507;616.0;48.0;;435.0;3.4946743295;2.56003521127;;146.0;24.8706621005;8.83321596244;;0.106382978723;0.716312056738;0.0354609929078;0.0851063829787;0.0425531914894;0.0141843971631;99.0;30.9925925926;36.0;9.0;2020-01;10.638297872299999;71.6312056738;3.54609929078;8.51063829787;4.25531914894;1.41843971631
-2020;2.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.564788732;716.0;6.0;;562.0;2.62841043891;1.97307511737;;56.0;21.6172619048;2.22666666667;;0.218181818182;0.490909090909;0.145454545455;0.0545454545455;0.0909090909091;0.0;32.0;28.6619791667;8.0;3.0;2020-02;21.8181818182;49.0909090909;14.5454545455;5.45454545455;9.09090909091;0.0
-2020;5.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.522222222;325.0;55.0;;220.0;2.13121212121;1.6487037037;;36.0;26.2458333333;4.36333333333;;0.121212121212;0.636363636364;0.0909090909091;0.121212121212;0.030303030303;0.0;23.0;43.5101449275;10.0;6.0;2020-05;12.121212121200001;63.63636363639999;9.09090909091;12.121212121200001;3.0303030303000003;0.0
-2020;6.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.201039861;610.0;33.0;;482.0;2.59882434302;2.09612940497;;43.0;28.6081395349;1.69948006932;;0.27027027027;0.27027027027;0.027027027027;0.378378378378;0.0540540540541;0.0;29.0;36.4293103448;14.0;5.0;2020-06;27.027027027;27.027027027;2.7027027027000003;37.837837837799995;5.40540540541;0.0
+Année;Mois;Service;Gare de départ;Gare d'arrivée;Durée moyenne du trajet (min);Nombre de circulations prévues;Nombre de trains annulés;Nombre de trains en retard au départ;Retard moyen des trains en retard au départ (min);Retard moyen de tous les trains au départ (min);Nombre de trains en retard à l'arrivée;Retard moyen des trains en retard à l'arrivée (min);Retard moyen de tous les trains à l'arrivée (min);Période
+2017;8.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.757201646;737.0;8.0;78.0;14.6638888889;1.6934156378599998;100.0;27.7058333333;4.49403292181;2017-08
+2015;5.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;211.077044025;637.0;1.0;10.0;18.1;0.413522012579;34.0;43.6764705882;2.45125786164;2015-05
+2015;1.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;208.685667752;615.0;1.0;19.0;17.6842105263;0.693811074919;58.0;37.6551724138;4.70521172638;2015-01
+2015;2.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;210.177083333;577.0;1.0;22.0;19.7727272727;0.949652777778;44.0;30.7727272727;4.30729166667;2015-02
+2016;6.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.196881092;513.0;94.0;51.0;18.9215686275;2.14035087719;111.0;30.5765765766;10.2495126706;2016-06
+2016;12.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;206.15918958;697.0;6.0;56.0;26.499702381;2.12655571635;198.0;31.1888047138;12.0503135552;2016-12
+2019;7.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.87001287;777.0;0.0;471.0;4.69571832979;2.63667953668;99.0;39.4794612795;4.9561990562;2019-07
+2018;12.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.527080581;764.0;7.0;97.0;12.9807560137;1.34423161603;72.0;28.7516203704;2.28276089828;2018-12
+2015;3.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.714728682;645.0;0.0;8.0;21.375;0.337984496124;27.0;32.7407407407;2.04031007752;2015-03
+2015;11.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.557723577;617.0;2.0;23.0;12.1739130435;0.569105691057;56.0;33.2142857143;5.08943089431;2015-11
+2017;12.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;144.677675033;782.0;25.0;118.0;16.8707627119;2.8273227653;143.0;26.613986014;5.74225011008;2017-12
+2016;5.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;210.196819085;503.0;1.0;29.0;27.4482758621;1.7594433399599998;71.0;48.7605633803;10.7773359841;2016-05
+2015;7.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;213.847328244;658.0;3.0;77.0;42.025974026;5.31145038168;88.0;80.4772727273;12.0748091603;2015-07
+2019;6.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.697522816;774.0;7.0;501.0;7.85342648037;4.95458496306;94.0;45.7395390071;5.52618426771;2019-06
+2017;10.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.531941032;818.0;4.0;92.0;14.9851449275;0.187551187551;147.0;25.235260771;5.12620802621;2017-10
+2016;8.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.029096478;654.0;1.0;38.0;19.8947368421;1.32618683002;94.0;48.9468085106;8.71975497703;2016-08
+2017;4.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.272;632.0;7.0;52.0;21.3461538462;1.8416000000000001;115.0;29.3913043478;8.3008;2017-04
+2017;9.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.741645244;784.0;6.0;77.0;15.1510822511;1.55205655527;146.0;30.5910958904;6.5703299057399995;2017-09
+2018;5.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;140.393258427;800.0;266.0;39.0;14.588034188;0.956585518102;55.0;26.0763636364;2.38024344569;2018-05
+2018;2.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;144.061349693;698.0;46.0;189.0;15.5081128748;4.28108384458;157.0;41.8543524416;10.113599182;2018-02
+2015;4.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.685126582;632.0;0.0;15.0;13.0666666667;0.458860759494;42.0;35.7619047619;3.12816455696;2015-04
+2016;7.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;210.766766021;672.0;1.0;63.0;14.3174603175;1.65126676602;60.0;31.8833333333;4.52906110283;2016-07
+2018;8.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.962406015;681.0;16.0;122.0;7.61543715847;1.11979949875;62.0;27.1411290323;2.45521303258;2018-08
+2016;3.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.589285714;616.0;19.0;34.0;25.7941176471;1.5779220779199998;56.0;48.9285714286;6.8262987013;2016-03
+2018;11.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.427977839;734.0;12.0;60.0;9.24555555556;0.363711911357;57.0;27.1900584795;2.01237303786;2018-11
+2017;2.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;204.534090909;629.0;13.0;39.0;32.6692307692;1.99759199134;83.0;44.7624497992;8.20738636364;2017-02
+2019;5.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.94836272;794.0;0.0;467.0;10.548786581;5.97485306465;32.0;26.0479166667;0.162132661629;2019-05
+2018;3.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;144.019099591;760.0;27.0;123.0;7.62588075881;1.02003183265;80.0;23.0958333333;2.41550704866;2018-03
+2016;11.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;211.29468599;622.0;1.0;54.0;22.7777777778;2.24154589372;105.0;39.7619047619;11.0289855072;2016-11
+2018;4.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;142.122772277;756.0;251.0;91.0;9.06556776557;1.37174917492;57.0;24.514619883;2.37762376238;2018-04
+2018;7.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.400332226;697.0;95.0;137.0;12.5049878345;2.63214285714;78.0;27.5115384615;4.09119601329;2018-07
+2015;9.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.599681021;628.0;1.0;20.0;14.95;0.650717703349;53.0;38.5283018868;4.77192982456;2015-09
+2017;7.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.941926346;729.0;23.0;123.0;23.7317073171;4.39093484419;179.0;31.7709497207;9.03966005666;2017-07
+2016;10.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;211.296411856;641.0;0.0;45.0;25.7111111111;1.9890795631799998;110.0;35.4636363636;10.2527301092;2016-10
+2017;5.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;208.8848;629.0;4.0;59.0;15.3389830508;1.4272;135.0;28.1925925926;8.7392;2017-05
+2015;10.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.472392638;653.0;1.0;13.0;13.0769230769;0.44018404908;37.0;31.1891891892;3.22392638037;2015-10
+2016;9.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;209.155802862;629.0;0.0;38.0;32.0263157895;2.10333863275;105.0;38.7714285714;9.63434022258;2016-09
+2019;4.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.183006536;769.0;4.0;341.0;7.6850439882699995;3.31699346405;57.0;29.8257309942;1.39535947712;2019-04
+2019;3.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.619824341;816.0;19.0;95.0;19.9231578947;2.00648264325;64.0;50.6140625;3.42063989962;2019-03
+2018;9.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.244039271;714.0;1.0;96.0;7.14930555556;0.699158485273;52.0;23.0509615385;1.6306685367;2018-09
+2018;10.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.694915254;708.0;0.0;81.0;7.50514403292;0.563512241055;49.0;21.2445578231;1.24799905838;2018-10
+2019;1.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.411392405;819.0;29.0;106.0;16.1463836478;1.83983122363;65.0;42.1143589744;2.95061181435;2019-01
+2016;2.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.620462046;606.0;2.0;15.0;14.5333333333;0.506600660066;40.0;30.375;4.83498349835;2016-02
+2017;3.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;204.296137339;701.0;2.0;30.0;36.2;1.45922746781;98.0;41.5816326531;7.42775393419;2017-03
+2015;6.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;215.078651685;625.0;2.0;45.0;36.6666666667;2.8908507223099997;78.0;53.1923076923;7.72712680578;2015-06
+2016;4.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;208.037931034;580.0;13.0;21.0;24.1904761905;1.03448275862;45.0;43.1333333333;6.04655172414;2016-04
+2016;1.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.832155477;566.0;1.0;23.0;15.9565217391;0.782685512367;45.0;42.4;5.6148409894;2016-01
+2015;12.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.510015408;650.0;1.0;24.0;11.875;0.560862865948;33.0;31.0606060606;3.2126348228;2015-12
+2015;8.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;213.514503817;655.0;0.0;47.0;26.6382978723;2.12061068702;64.0;52.21875;5.96030534351;2015-08
+2019;2.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.289222374;741.0;8.0;66.0;11.3123737374;0.676034561164;54.0;23.6219135802;1.16800818554;2019-02
+2018;1.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;143.40625;775.0;7.0;148.0;9.37781531532;1.5825303819399998;79.0;25.4791139241;2.54696180556;2018-01
+2018;6.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;141.928902628;804.0;157.0;56.0;16.3098214286;1.36555899021;75.0;24.2031111111;2.9105615662;2018-06
+2017;6.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;207.434375;648.0;8.0;102.0;23.6862745098;3.6140625;161.0;36.2236024845;12.1234375;2017-06
+2017;11.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.513994911;794.0;8.0;62.0;15.8319892473;1.31060220526;118.0;27.8607344633;4.77996183206;2017-11
+2017;1.0;National;PARIS MONTPARNASSE;BORDEAUX ST JEAN;204.617737003;667.0;13.0;66.0;18.2858585859;1.78970438328;124.0;25.697983871;7.77864424057;2017-01
+2019;8.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.632513661;737.0;5.0;420.0;5.67369047619;2.92087887067;46.0;30.6507246377;1.47349726776;2019-08
+2019;9.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;151.253117207;806.0;4.0;562.0;5.48917556346;3.69289276808;61.0;27.256284153;1.33453865337;2019-09
+2019;10.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.722745626;784.0;41.0;591.0;5.79543147208;4.48497083894;85.0;28.5984313725;2.27063705698;2019-10
+2019;11.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.712270804;738.0;29.0;548.0;6.52852798054;4.91927597555;86.0;34.3798449612;4.21372825576;2019-11
+2020;4.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;153.891891892;92.0;55.0;35.0;7.18523809524;6.76576576577;20.0;22.6766666667;15.25;2020-04
+2019;12.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.394648829;366.0;67.0;232.0;7.81034482759;5.9102006689;82.0;24.7705284553;7.56956521739;2019-12
+2020;3.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;146.943946188;501.0;55.0;348.0;2.98936781609;2.20459641256;77.0;24.0032467532;5.4014573991;2020-03
+2020;1.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.51584507;616.0;48.0;435.0;3.4946743295;2.56003521127;146.0;24.8706621005;8.83321596244;2020-01
+2020;2.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;147.564788732;716.0;6.0;562.0;2.62841043891;1.97307511737;56.0;21.6172619048;2.22666666667;2020-02
+2020;5.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;145.522222222;325.0;55.0;220.0;2.13121212121;1.6487037037;36.0;26.2458333333;4.36333333333;2020-05
+2020;6.0;;PARIS MONTPARNASSE;BORDEAUX ST JEAN;149.201039861;610.0;33.0;482.0;2.59882434302;2.09612940497;43.0;28.6081395349;1.69948006932;2020-06
